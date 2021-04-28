@@ -1,0 +1,199 @@
+
+/*----------------------------------------------------- all css start */
+/*----------------------------------------------------- all css start */
+
+
+
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.paragraph a{
+	text-decoration: none;
+	color:#6600FF;
+}
+p{
+	color:#615544;
+	font-size: 15px;
+}
+.navbar navbar-expand-md navbar-light bg-light fixed-top{
+	background:#000;
+}
+/* all navbar css start */
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color:#62C1E2;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000000b3;
+    font-weight: 600;
+	transition:0.3s;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#62C1E2;
+    font-weight: 600;
+}
+/* -----------all navbar css end */
+
+
+.font-weight-bold {
+    font-weight: 900!important;
+}
+.nam_title {
+    margin-left: 115px;
+    margin-top: 20px;
+}
+
+
+/* publication section css */
+
+.publication_div h2 {
+    margin: 50px 0px;
+}
+.fixed-top {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+}
+ul.navbar-nav.ml-auto {
+    padding-right: 254px;
+}
+
+/*------------- media css */
+.media u a {
+    border: 1px solid #1d0202;
+    padding: 7px;
+    font-size: 12px;
+}
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+    PADDING-LEFT: 31PX;
+    PADDING-BOTTOM: 18PX;
+}
+.pdf_box {
+    padding-top: 10px;
+	
+	
+	
+}
+/*------------- navar fixed top css */
+.navbar {
+    box-shadow: none;
+    border-bottom: 1px solid #e8e8e8;
+    opacity: 0.95;
+    background-color: var(--global-bg-color);
+}
+
+
+
+
+
+
+
+
+/*----------- media extra css start */
+.media1{
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+p.per_year {
+    font-size: 30px;
+    color: #d6d1d1;
+    font-style: normal;
+     padding-left: 0px;
+}
+
+h4.place1 {
+    margin-left: 214px;
+}
+span.color_check {
+    color: black;
+    font-weight: 400;
+}
+
+.pdf_box2 a {
+    border-radius: 3px;
+    padding: 4px 11px;
+    color: black;
+    font-size: 10px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+.jss_section p {
+    color: white;
+    background: #2698ba;
+    padding: 1px 17px;
+    font-size: 13px;
+    border-radius: 2px;
+    font-weight: 600;
+}
+
+h4.extra_space {
+    margin-left: 204px;
+}
+
+/*----------- media extra css end */
+
+
+
+
+
+
+/* --------------social css start */
+.social_icons {
+    text-align: center;
+    margin: 50px 0px;
+}
+.social_icons img{
+	width:60px;
+	height:60px;
+}
+
+.social_icons i{
+	font-size:55px;
+	text-align:center;
+	transition:0.3s;
+	color:#000;
+	margin-top:10px;
+}
+.social_icons i:hover{
+      color:#2698BA;
+}
+.social_icons img:hover{
+      color:#2698BA;
+}
+
+/* --------------social css end */
+
+
+
+
+/*----------------- media css start  */
+.media-body p{
+	width:75%;
+}
+
+.media_extra{
+	border-top:1px solid #E9E9E9;
+	border-bottom:1px solid #E9E9E9;
+}
+
+h2.pt-5.center_class {
+    text-align: center;
+    color: #808080;
+}
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+    PADDING-LEFT: 0PX;
+    PADDING-BOTTOM: 18PX;
+}
